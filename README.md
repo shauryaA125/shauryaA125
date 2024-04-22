@@ -1,6 +1,6 @@
 - 👋 Sup, I’m @shauryaA125
-I do Ai and python stuff for my youtube channel.
-Consider subscribing - https://www.youtube.com/channel/UCow9gSppEut6yLEG9O2KvwQ
+- I do Ai and python stuff for my youtube channel.
+- Consider subscribing - https://www.youtube.com/channel/UCow9gSppEut6yLEG9O2KvwQ
 
 
 - ⚡ Fun fact: I like Anime
